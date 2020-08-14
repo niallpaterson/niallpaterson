@@ -30,7 +30,7 @@ I'm currently looking for opportunities around the South West to help me grow as
 
 - Before putting my skills to use in tech, I was an analytic philosopher
 - I worked on knowledge, belief, dispositional properties, risk, biological functions, and the mind-brain identity thesis.
-- You can check out my work [here](https://orcid.org/0000-0003-1178-0463).
+- You can check out some of my work [here](https://orcid.org/0000-0003-1178-0463).
 
 
 
