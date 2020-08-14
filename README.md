@@ -4,7 +4,7 @@
 
 I enjoy working in `JavaScript`, `node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, `Jest`, `Enzume`, and `ZSH`. 
 
-I'm currently looking for opportunities around the South West, to help me grow as a developer.
+I'm currently looking for opportunities around the South West to help me grow as a developer.
 
 ### 🔭 I’m currently working on:
 
