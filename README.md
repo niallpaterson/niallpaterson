@@ -4,7 +4,7 @@
 
 I enjoy working in `JavaScript`, `node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, `Jest`, `Enzume`, and `ZSH`. 
 
-I'm currently looking for oppourtinities around the South West, tp help me grow as a developer.
+I'm currently looking for opportunities around the South West, to help me grow as a developer.
 
 ### 🔭 I’m currently working on:
 
@@ -17,9 +17,8 @@ I'm currently looking for oppourtinities around the South West, tp help me grow 
 
 - How to write beautiful object constructors,
 - How to get the best out of aysnchonous JS,
-- How to cash in on the wonders of prototypal inheritence,
-- How to write nuanced, effective unit and integration tests, and
-- How to write well designed APIs.
+- How to cash in on the wonders of prototypal inheritence, and
+- How to write nuanced, effective unit and integration tests.
 
 ### 🤯 I’m fascinated by
 
