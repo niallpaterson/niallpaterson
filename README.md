@@ -1,4 +1,4 @@
-## Hey 👋 I'm Niall
+## Hey, 👋 I'm Niall
 
 ### I'm on a mission 🚀 to craft clean functional code, to add value and do my bit. 
 
@@ -23,3 +23,5 @@ I enjoy working in `JavaScript`, `node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, 
 - Functional programming, esp. function composition 🥰,
 - Software architecutral design patterns, and
 - Modal logic, particulary its theoretical applications.
+
+Don't be shy, say hi @ <niall.paterson@pm.me>
