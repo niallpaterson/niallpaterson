@@ -2,7 +2,7 @@
 
 ### I'm on a mission 🚀 to craft clean functional code, to add value and do my bit. 
 
-I enjoy working in `JavaScript`, `node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, `Jest`, `Enzyme`, and `ZSH`. 
+I enjoy working in `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, `Jest`, `Enzyme`, and `ZSH`. 
 
 ### 🔭 I’m currently working on:
 
