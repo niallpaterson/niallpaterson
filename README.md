@@ -6,8 +6,8 @@ I enjoy working in `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, 
 
 ### 🔭 I’m currently working on:
 
-- Factory.create: a package to streamline factory function production in JavaScript.
-- Count-line: a package for retreiving line counts of large files without relying on readStreams.
+- Factory.create: a package to streamline factory function production in JavaScript,
+- Count-line: a package for retreiving line counts of large files without relying on readStreams, and
 - and more. . .  (check out [this project](https://github.com/users/niallpaterson/projects/5)).
 
 ### 🌱 I’m always learning, but right now its:
