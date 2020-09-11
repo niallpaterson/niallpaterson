@@ -16,7 +16,7 @@ I enjoy working in `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, 
 - How to cash in on prototypal inheritence, and
 - How to write nuanced, effective unit and integration tests.
 
-### 🤯 I’m fascinated by
+### 🤯 I’m fascinated by:
 
 - Functional programming, esp. function composition 🥰,
 - Software architecutral design patterns, and
