@@ -6,9 +6,9 @@ I enjoy working in `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, 
 
 ### 🔭 I’m currently working on:
 
-- an ecommerce site for a company in Raglan New Zealand, built in functional React, 
+- ecommerce site for a company in Raglan New Zealand, built in functional React, 
 - flip-function: a package for reversing parameter order,
-- count-line: a package for retrieving line counts of large files without relying on readStreams, and
+- count-line: a package for retrieving line counts of large files without relying on readStreams,
 - and more. . .  (check out [this project](https://github.com/users/niallpaterson/projects/5)).
 
 ### 🌱 I’m always learning, but right now its:
