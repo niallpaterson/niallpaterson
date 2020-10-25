@@ -1,13 +1,11 @@
 ## Hey, 👋 I'm Niall
 
-### 🚀 My mission? 👉 To craft clean functional code, to add value and do my bit. 
+🥞 I'm a full stack software engineer based in Bristol, England. 
 
-I enjoy working in `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `SCSS`, `Git`, `Jest`, `Express`, `Supertest`, `AVA`, `Enzyme`, and `ZSH`. 
+🚀 My mission? To craft clean, functional code, to add value and do my bit.
 
-### 🤯 I’m fascinated by:
+🥰 I'm passionate about all things Node and React.
 
-- Functional programming, esp. function composition 🥰,
-- Software architecutral design patterns, and
-- Modal logic, particulary its theoretical applications.
+🤯 I'm facinated by functional programming, esp. function composition
 
 Don't be shy, say hi @ <niall.paterson@pm.me>
