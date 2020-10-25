@@ -4,13 +4,13 @@
 
 🥞 Who am I?
 
-A full stack software engineer based in Bristol, United Kingdom. 
+Full stack software engineer based in Bristol, United Kingdom. 
 
 ---
 
 🚀 My mission? 
 
-To craft clean functional code, to add value and do my bit.
+Craft clean functional code, to add value and do my bit.
 
 ---
 
