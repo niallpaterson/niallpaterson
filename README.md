@@ -10,7 +10,7 @@ Full stack software engineer based in Bristol, United Kingdom.
 
 🚀 My mission? 
 
-Craft clean functional code, to add value and do my bit.
+To craft clean functional code, to add value and do my bit.
 
 ---
 
