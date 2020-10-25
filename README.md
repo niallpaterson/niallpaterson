@@ -4,7 +4,7 @@
 
 🥞 Who am I?
 
-A full stack software engineer based in Bristol, England. 
+A full stack software engineer based in Bristol, United Kingdom. 
 
 ---
 
@@ -14,15 +14,15 @@ To craft clean functional code, to add value and do my bit.
 
 ---
 
-🥰 What am I passionate about?
+🥰 Passionate about?
 
-All things Node and React!
+All things JavaScript, esp Node and React.
 
 ---
 
-🤯 What am I fascinated by?
+🤯 Fascinated by?
 
-Functional programming, and architectural design patterns.
+Functional programming, architectural design patterns, and modal logic.
 
 ---
 
