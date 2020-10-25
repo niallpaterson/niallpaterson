@@ -22,7 +22,7 @@ All things JavaScript, esp Node and React.
 
 🤯 Fascinated by?
 
-Functional programmin and architectural design patterns.
+Functional programming and architectural design patterns.
 
 ---
 
