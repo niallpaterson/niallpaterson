@@ -2,25 +2,25 @@
 
 ---
 
-🥞 Who am I?
+🥞 whoami
 
 Full stack software engineer based in Bristol, United Kingdom. 
 
 ---
 
-🚀 My mission? 
+🚀 echo $(mission)
 
 To craft clean functional code, to add value and do my bit.
 
 ---
 
-🥰 Passionate about?
+🥰 echo $(passions)
 
 All things JavaScript, esp Node and React.
 
 ---
 
-🤯 Fascinated by?
+🤯 echo $(fascinated_by)
 
 Functional programming and architectural design patterns.
 
