@@ -21,7 +21,7 @@ All things JavaScript, esp Node and React.
 ---
 
 🤯 echo $(fascinated_by)
-.
+
 Functional programming, architectural design patterns, and modal logic 😍.
 
 ---
