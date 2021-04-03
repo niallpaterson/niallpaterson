@@ -2,25 +2,31 @@
 
 ---
 
-🥞 whoami
+🥞 `whoami`
 
-Full stack software engineer based in Bristol, United Kingdom. 
-
----
-
-🚀 echo $(mission)
-
-To craft clean functional code, to add value and do my bit.
+Full stack software engineer @ 🍋 [Big Lemon](https://biglemon.co.uk).
 
 ---
 
-🥰 echo $(passions)
+🚀 `echo ${mission}`
 
-All things JavaScript, esp Node and React.
+Create digital products that make an _impact_.
 
 ---
 
-🤯 echo $(fascinated_by)
+🛠 `console.log(user.tools)`
+
+Array [  
+ "React",  
+ "React Native",  
+ "Node.js",  
+ "REST APIs",  
+ "GraphQL",  
+]
+
+---
+
+🤯 `(() => user.fascinated_by)()`
 
 Functional programming, architectural design patterns, and modal logic 😍.
 
