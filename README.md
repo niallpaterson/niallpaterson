@@ -18,7 +18,8 @@ Create digital products that make an _impact_.
 
 Array [  
  "React",  
- "React Native",  
+ "React Native",
+ "TypeScript",  
  "Node.js",  
  "REST APIs",  
  "GraphQL",  
