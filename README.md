@@ -1,1 +1,1 @@
-Frontend developer @ Big lemon.
+CTO @ Ffern
